@@ -1,0 +1,51 @@
+Disease,Treatment,Symptoms
+acute respiratory distress syndrome,consult a doctor,"cough, distress, pain, rapid heartbeat, shortness of breath"
+asbestosis,consult a doctor,"clubbing, lung crackles, persistent dry cough"
+asbestosis,nan,nan
+asbestosis,oxygen,"lung crackles, persistent dry cough, shortness of breath, weight loss from appetite loss"
+asbestosis,stay away from cold places,"clubbing, lung crackles, persistent dry cough, shortness of breath, weight loss from appetite loss"
+aspergillosis,itraconazole,"fatigue, shortness of breath, weight loss, wheezing"
+aspergillosis,nan,"fatigue, shortness of breath, weight loss, wheezing"
+aspergillosis,surgery,"fatigue, shortness of breath, weight loss, wheezing"
+asthma,inhaler,"allergy, cold, cough, fever, shortness of breath, wheezing"
+asthma,itraconazole,shortness of breath
+asthma,mepolizumab,"allergy, chest tightness, cough, fever, nan, shortness of breath, wheezing"
+asthma,nan,"chest tightness, cough, nan"
+asthma,omalizumab,"cold, cough, fever, shortness of breath, wheezing"
+bronchiectasis,antibiotics,"fatigue, fever, productive cough with yellow/green mucus, shortness of breath (worsens during flare-ups)"
+bronchiectasis,hypertonic saline,"chest pain, fatigue, fever, productive cough with yellow/green mucus, shortness of breath (worsens during flare-ups), wheezing"
+bronchiectasis,intrapulmonary percussive ventilation,"chest pain, cough, cough with blood"
+bronchiectasis,nan,"fatigue, fever, shortness of breath (worsens during flare-ups)"
+bronchiolitis,consult a doctor,runny nose
+bronchiolitis,inhaler,"cold, fever, runny nose"
+bronchiolitis,nan,"cough, loss of appetite, nasal congestion, runny nose"
+bronchiolitis,saline nose drops,"cough, loss of appetite, nasal congestion"
+bronchitis,antibiotics,"chest congestion, cough with yellow mucus, fatigue, low-grade fever, nasal congestion, runny nose, wheezing"
+bronchitis,nan,"cough with yellow mucus, fatigue, wheezing"
+chronic bronchitis,inhaler,"mucus, shortness of breath, wheezing"
+chronic bronchitis,oxygen,"mucus, shortness of breath, wheezing"
+chronic bronchitis,steroids to reduce inflammation,"chest pain, mucus, shortness of breath, wheezing"
+chronic bronchitis,x-ray,"chest pain, mucus, shortness of breath, wheezing"
+chronic cough,nan,"cold, nan, shortness of breath"
+chronic obstructive pulmonary disease,consult a doctor,"chronic cough, cold, mucus, wheezing"
+chronic obstructive pulmonary disease,inhaler,"chronic cough, fatigue"
+chronic obstructive pulmonary disease,nan,cold
+chronic obstructive pulmonary disease,oxygen,"chronic cough, fatigue, mucus, shortness of breath"
+chronic obstructive pulmonary disease,pulmonary rehabilitation,"chronic cough, cold, mucus, shortness of breath, wheezing"
+chronic obstructive pulmonary disease,surgery,fatigue
+influenza,oseltamivir,"chills, cough, diarrhea, fatigue, headache, high fever, joint pain, muscle aches, nasal congestion, nausea, runny nose, sore throat, vomiting"
+mesothelioma,chemotherapy,"chest pain, dry cough, lower back pain, nan, shortness of breath"
+mesothelioma,consult a doctor,shortness of breath
+pneumonia,antibiotics,"chest pain, cold, cough with blood, cough with green mucus, cough with yellow mucus, fatigue, loss of appetite, nausea, rapid breathing, shaking, shallow breathing, shortness of breath, sweating, vomiting"
+pneumonia,aspirin,"fever, nan"
+pneumonia,cough medicine,"cold, cough with blood, cough with green mucus, cough with yellow mucus, nausea"
+pneumonia,nan,"nan, shallow breathing"
+pneumothorax,isotonic sodium chloride solution,"cold, cyanosis, dry cough, fatigue, fever, nan, rapid breathing, rapid heartbeat, sharp chest pain, shortness of breath"
+pulmonary hypertension,diuretics,"chest pain, dizziness, edema, fainting, fatigue, heart palpitations, shortness of breath"
+pulmonary hypertension,nan,shortness of breath
+respiratory syncytial virus,intravenous fluids,"cold, rapid shallow breathing, wheezing cough"
+sleep apnea,adaptive servo-ventilation,"daytime sleepiness, dry mouth, frequent waking, irritability, memory/concentration problems, mood changes, morning headaches, sleep apnea episodes, snoring"
+sleep apnea,nan,snoring
+tuberculosis,ethambutol,"chills, fever, loss of appetite & weight loss, night sweats, persistent cough"
+tuberculosis,pyrazinamide,"chills, fever, loss of appetite & weight loss, night sweats, persistent cough"
+tuberculosis,rifampin,"chills, fever, loss of appetite & weight loss, night sweats, persistent cough"
