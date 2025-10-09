@@ -1,51 +1,19 @@
-Disease,Treatment,Symptoms
-acute respiratory distress syndrome,consult a doctor,"cough, distress, pain, rapid heartbeat, shortness of breath"
-asbestosis,consult a doctor,"clubbing, lung crackles, persistent dry cough"
-asbestosis,nan,nan
-asbestosis,oxygen,"lung crackles, persistent dry cough, shortness of breath, weight loss from appetite loss"
-asbestosis,stay away from cold places,"clubbing, lung crackles, persistent dry cough, shortness of breath, weight loss from appetite loss"
-aspergillosis,itraconazole,"fatigue, shortness of breath, weight loss, wheezing"
-aspergillosis,nan,"fatigue, shortness of breath, weight loss, wheezing"
-aspergillosis,surgery,"fatigue, shortness of breath, weight loss, wheezing"
-asthma,inhaler,"allergy, cold, cough, fever, shortness of breath, wheezing"
-asthma,itraconazole,shortness of breath
-asthma,mepolizumab,"allergy, chest tightness, cough, fever, nan, shortness of breath, wheezing"
-asthma,nan,"chest tightness, cough, nan"
-asthma,omalizumab,"cold, cough, fever, shortness of breath, wheezing"
-bronchiectasis,antibiotics,"fatigue, fever, productive cough with yellow/green mucus, shortness of breath (worsens during flare-ups)"
-bronchiectasis,hypertonic saline,"chest pain, fatigue, fever, productive cough with yellow/green mucus, shortness of breath (worsens during flare-ups), wheezing"
-bronchiectasis,intrapulmonary percussive ventilation,"chest pain, cough, cough with blood"
-bronchiectasis,nan,"fatigue, fever, shortness of breath (worsens during flare-ups)"
-bronchiolitis,consult a doctor,runny nose
-bronchiolitis,inhaler,"cold, fever, runny nose"
-bronchiolitis,nan,"cough, loss of appetite, nasal congestion, runny nose"
-bronchiolitis,saline nose drops,"cough, loss of appetite, nasal congestion"
-bronchitis,antibiotics,"chest congestion, cough with yellow mucus, fatigue, low-grade fever, nasal congestion, runny nose, wheezing"
-bronchitis,nan,"cough with yellow mucus, fatigue, wheezing"
-chronic bronchitis,inhaler,"mucus, shortness of breath, wheezing"
-chronic bronchitis,oxygen,"mucus, shortness of breath, wheezing"
-chronic bronchitis,steroids to reduce inflammation,"chest pain, mucus, shortness of breath, wheezing"
-chronic bronchitis,x-ray,"chest pain, mucus, shortness of breath, wheezing"
-chronic cough,nan,"cold, nan, shortness of breath"
-chronic obstructive pulmonary disease,consult a doctor,"chronic cough, cold, mucus, wheezing"
-chronic obstructive pulmonary disease,inhaler,"chronic cough, fatigue"
-chronic obstructive pulmonary disease,nan,cold
-chronic obstructive pulmonary disease,oxygen,"chronic cough, fatigue, mucus, shortness of breath"
-chronic obstructive pulmonary disease,pulmonary rehabilitation,"chronic cough, cold, mucus, shortness of breath, wheezing"
-chronic obstructive pulmonary disease,surgery,fatigue
-influenza,oseltamivir,"chills, cough, diarrhea, fatigue, headache, high fever, joint pain, muscle aches, nasal congestion, nausea, runny nose, sore throat, vomiting"
-mesothelioma,chemotherapy,"chest pain, dry cough, lower back pain, nan, shortness of breath"
-mesothelioma,consult a doctor,shortness of breath
-pneumonia,antibiotics,"chest pain, cold, cough with blood, cough with green mucus, cough with yellow mucus, fatigue, loss of appetite, nausea, rapid breathing, shaking, shallow breathing, shortness of breath, sweating, vomiting"
-pneumonia,aspirin,"fever, nan"
-pneumonia,cough medicine,"cold, cough with blood, cough with green mucus, cough with yellow mucus, nausea"
-pneumonia,nan,"nan, shallow breathing"
-pneumothorax,isotonic sodium chloride solution,"cold, cyanosis, dry cough, fatigue, fever, nan, rapid breathing, rapid heartbeat, sharp chest pain, shortness of breath"
-pulmonary hypertension,diuretics,"chest pain, dizziness, edema, fainting, fatigue, heart palpitations, shortness of breath"
-pulmonary hypertension,nan,shortness of breath
-respiratory syncytial virus,intravenous fluids,"cold, rapid shallow breathing, wheezing cough"
-sleep apnea,adaptive servo-ventilation,"daytime sleepiness, dry mouth, frequent waking, irritability, memory/concentration problems, mood changes, morning headaches, sleep apnea episodes, snoring"
-sleep apnea,nan,snoring
-tuberculosis,ethambutol,"chills, fever, loss of appetite & weight loss, night sweats, persistent cough"
-tuberculosis,pyrazinamide,"chills, fever, loss of appetite & weight loss, night sweats, persistent cough"
-tuberculosis,rifampin,"chills, fever, loss of appetite & weight loss, night sweats, persistent cough"
+Disease,Symptoms,Diagnostic_Measures
+acute respiratory distress syndrome,"cough, distress, pain, rapid heartbeat, shortness of breath",Chest X-ray/CT: Detects bilateral infiltrates using imaging scanner. Arterial blood gas: Assesses oxygenation index from arterial blood. Echocardiography: Rules out cardiac origin using ultrasound imaging.
+asbestosis,"clubbing, lung crackles, persistent dry cough, shortness of breath, weight loss from appetite loss",Chest X-ray/HRCT: Identifies fibrosis and plaques using imaging. Pulmonary function test: Detects restrictive pattern via spirometry. Exposure history: Collected through occupational interview.
+aspergillosis,"fatigue, shortness of breath, weight loss, wheezing",Chest CT: Detects nodules/cavities via imaging. Serum galactomannan test: Detects fungal antigen using ELISA kit. Sputum/BAL culture: Confirms Aspergillus via laboratory culture.
+asthma,"allergy, chest tightness, cold, cough, fever, shortness of breath, wheezing",Spirometry with bronchodilator: Measures reversible airway narrowing via spirometer before/after inhaler. Peak flow monitoring: Tracks airflow variability using a handheld peak flow meter. Allergy testing: Identifies triggers via skin prick or IgE blood tests.
+bronchiectasis,"chest pain, cough, cough with blood, fatigue, fever, productive cough with yellow/green mucus, shortness of breath (worsens during flare-ups), wheezing",High-resolution CT: Gold standard for airway dilation detection. Sputum culture: Identifies pathogens using lab media. Pulmonary function tests: Measures lung capacity using spirometry equipment.
+bronchiolitis,"cold, cough, fever, loss of appetite, nasal congestion, runny nose",Pulse oximetry: Monitors oxygen saturation using a fingertip oximeter. Chest X-ray: Used only for severe cases to visualize lung inflammation. Viral antigen test: Nasal swab analyzed by rapid antigen detection device.
+bronchitis,"chest congestion, cough with yellow mucus, fatigue, low-grade fever, nasal congestion, runny nose, wheezing",Chest X-ray: Rules out pneumonia with X-ray imaging. Sputum analysis: Identifies bacterial vs viral cause under a microscope or PCR analyzer.
+chronic bronchitis,"chest pain, mucus, shortness of breath, wheezing",Spirometry: Confirms airflow obstruction via forced exhalation into spirometer. Chest X-ray: Rules out other diseases using radiographic imaging. Sputum culture: Detects bacterial colonization via microbiology culture.
+chronic cough,"cold, shortness of breath",Chest X-ray: Identifies underlying lung disease with imaging. Spirometry: Detects airflow obstruction via lung function test. ENT exam/Bronchoscopy: Visualizes airways using a fiberoptic scope.
+chronic obstructive pulmonary disease,"chronic cough, cold, fatigue, mucus, shortness of breath, wheezing",Spirometry: Measures airflow limitation (FEV1/FVC) using a spirometer; patient exhales forcefully into the tube. Chest X-ray/CT: Visualizes structural lung changes using radiography or CT scanner. Arterial blood gases: Evaluates oxygen/CO₂ via blood sample analyzer.
+influenza,"chills, cough, diarrhea, fatigue, headache, high fever, joint pain, muscle aches, nasal congestion, nausea, runny nose, sore throat, vomiting",Rapid influenza diagnostic test (RIDT): Detects viral antigens from nasal swab. PCR test: Confirms strain using thermal cycler. Chest X-ray: Assesses pneumonia complications with imaging plate.
+mesothelioma,"chest pain, dry cough, lower back pain, shortness of breath",Chest CT scan: Detects pleural thickening using cross-sectional imaging. Pleural biopsy: Extracts tissue using a biopsy needle for microscopic examination. Thoracoscopy: Directly visualizes pleura with a thoracoscope camera.
+pneumonia,"chest pain, cold, cough with blood, cough with green mucus, cough with yellow mucus, fatigue, fever, loss of appetite, nausea, rapid breathing, shaking, shallow breathing, shortness of breath, sweating, vomiting","Chest X-ray: Confirms lung infiltrates using radiographic imaging equipment placed against the chest. Sputum culture/Gram stain: Identifies bacterial cause using a microscope and staining reagents. Blood tests (CBC, CRP): Detect inflammation via lab analyzers. Pulse oximetry: Measures oxygen saturation using a fingertip oximeter."
+pneumothorax,"cold, cyanosis, dry cough, fatigue, fever, rapid breathing, rapid heartbeat, sharp chest pain, shortness of breath",Chest X-ray/CT: Confirms collapsed lung with imaging. Arterial blood gas test: Measures oxygen/CO₂ using arterial blood drawn with a syringe.
+pulmonary hypertension,"chest pain, dizziness, edema, fainting, fatigue, heart palpitations, shortness of breath",Echocardiogram: Estimates arterial pressure using ultrasound probe on chest. Right heart catheterization: Measures pressure directly via catheter insertion. CT pulmonary angiography: Visualizes pulmonary arteries using contrast dye and CT scanner.
+respiratory syncytial virus,"cold, rapid shallow breathing, wheezing cough",Rapid antigen/PCR test: Confirms RSV from nasal swab using lab analyzer. Chest X-ray: Used only for severe lower airway involvement.
+sleep apnea,"daytime sleepiness, dry mouth, frequent waking, irritability, memory/concentration problems, mood changes, morning headaches, sleep apnea episodes, snoring","Polysomnography: Monitors breathing, heart rate, and oxygen overnight using sensors and EEG leads. Oximetry: Records overnight oxygen fluctuations using pulse oximeter."
+tuberculosis,"chills, fever, loss of appetite, night sweats, persistent cough, weight loss",Sputum microscopy/culture: Detects acid-fast bacilli using Ziehl–Neelsen stain and incubator. GeneXpert/PCR: Confirms TB DNA and resistance with automated molecular analyzer. Chest X-ray: Shows characteristic lesions with X-ray imaging.
