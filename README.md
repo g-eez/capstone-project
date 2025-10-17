@@ -174,3 +174,7 @@ By leveraging **n8n**, **Supabase**, **Node.js**, and the **Gemini API**, the sy
 
 ---
 ```
+Group 4 members
+Mohamed Abdi Sheikh
+George Kariuki
+Deborah Omondi
